@@ -1,3 +1,3 @@
-module github.com/khulnasoft-labs/gostruct
+module github.com/khulnasoft-lab/gostruct
 
 go 1.19
